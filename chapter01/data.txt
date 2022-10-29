@@ -1,0 +1,5 @@
+This is a test file.
+It is used to test functions about system reading and writing.
+And also test functions about file input and output.
+test
+test
